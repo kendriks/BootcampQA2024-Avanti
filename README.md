@@ -8,8 +8,8 @@ Este repositório reúne os principais documento produzidos durante o Bootcamp d
 
 ## 🛠️ Ferramentas e Tecnologias:
 - **Comunicação:** Discord, WhatsApp, Google Meet.
-- **Edição:** Google Docs, Screenprint
-- **Programação:** Cypress, VsCode
+- **Edição:** Google Docs, Screenprint.
+- **Programação:** Cypress, VsCode.
 
 ## 🎯 Objetivo
 Demonstrar a aplicação dos conceitos de planejamento, escrita, execução e documentação de bugs do projeto site Luma, uma aplicação demo utilizada para teste.
